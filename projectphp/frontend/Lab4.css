@@ -1,0 +1,178 @@
+body{
+  margin: 3px;
+  padding: 0px;
+
+}
+#wrap {
+    width: 960px;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 0px;
+
+}
+div.lid {
+  width: 960px;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 0px;  
+    background-image: url("cinema.jpg");
+ }
+
+.image {
+    background-image: url(moviE.png);
+    background-size: 100%;
+    height: 230px;
+    margin: 0px;
+
+}
+
+header {
+  position: relative;
+   overflow: hidden;
+}
+
+
+div.mainmenu{
+     padding: 0px;
+     margin: 0px;
+     overflow: hidden;
+    position: absolute;
+     bottom: 0px;
+     background-color : rgba(0, 0, 0, 0.5);
+      width: 100%;     
+} 
+div.mainmenu a{
+  display: inline-block;
+  color: #ffffff;
+  padding: 16px;
+  text-decoration: none; 
+   font-weight: bold; 
+    opacity:0.9;
+  
+  
+}
+div.mainmenug{
+     padding: 0px;
+     margin: 0px;
+     overflow: hidden;
+    
+     bottom: 0px;
+     background-color : #000;
+      width: 100%;     
+} 
+div.mainmenug a{
+  display: inline-block;
+  color: #000;
+  padding: 16px;
+  text-decoration: none; 
+    
+    opacity:0.9;
+  
+  
+}
+
+
+
+
+div.mainmenu a:hover{opacity:1; color:#ffff66;}
+div.mainmenu a.active{background-color:#000; opacity:1;}
+
+div.mainmenug a:hover{opacity:1; color:#023de3;}
+div.mainmenug a.active{background-color:#ffff66; opacity:1;}
+
+
+
+
+.table {
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+overflow: hidden;
+width: 110%;
+}
+.one, .two, .three, .four{ 
+  overflow: hidden;
+  line-height: 26px;
+  padding: 20px 0px 30px 0px; 
+  margin: 0px 3px 7px 15px;
+border: 3px black solid;
+float: left;
+
+}
+
+
+.last {
+ background-color: #000;
+color: #ffffff;
+ font-weight: 300;
+ 
+ text-align: center;
+ padding: 15px;
+}
+.last:hover  {
+  color: #00B;
+}
+label  {
+  color: #fff;
+}
+hr, br  {
+  color: #000;
+}
+h3, h2  {
+  font-weight: 300;
+  padding: 10px:;
+ 
+  font-weight: bold;
+ color: #fff;
+  font-size: 25px;
+
+ }  
+
+
+p, li, a, h4 {
+  
+  font-weight: 100;
+  color: #fff;
+  
+ 
+  }
+  
+h1 {
+  font-family: "lato", "google fonts";
+  font-weight: 900;
+  color:#fff;
+  font-size: 62px;
+  line-height: 80%;
+  color: #fff;
+  padding: 10px;
+  
+}
+
+.top {
+  position: relative;
+  overflow: hidden; 
+}
+ 
+
+ .frontpagebook {
+  margin: 0px 0px 20px 0px;
+  padding: 0px ;
+  border: 5px solid #eeeeee;
+ }
+img{
+ 
+  border: 5px solid #eeeeee;
+}
+
+footer {
+  clear: both;
+  background-color: #000;
+  color:#fff;
+ 
+  font-weight: 300;
+  font-size: 15px; 
+  margin: 10px 0px 10px 0px;
+  padding: 5px; 
+}
+
+   
