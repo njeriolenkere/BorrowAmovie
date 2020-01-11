@@ -1,2 +1,2 @@
 # BorrowAmovie
-school project using html5,css,sql,php etc
+School project using HTML5, CSS3, My-SQL, PHP, JSON
