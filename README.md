@@ -1,3 +1,3 @@
 # Njeri_MovieLibrary
- Movie library where you can borrow your movies.
+ A Movie library where you can borrow your favorite movies.
  HTML5, CSS3, My-SQL, PHP, JSON
